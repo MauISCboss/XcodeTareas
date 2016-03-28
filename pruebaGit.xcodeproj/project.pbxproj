@@ -34,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0B4433D21CA8DB2E009DAE4D /* Bingo.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Bingo.playground; sourceTree = "<group>"; };
 		0BB5DC721CA6368C00D99507 /* pruebaGit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pruebaGit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0BB5DC751CA6368C00D99507 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0BB5DC771CA6368C00D99507 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -77,6 +78,7 @@
 		0BB5DC691CA6368B00D99507 = {
 			isa = PBXGroup;
 			children = (
+				0B4433D21CA8DB2E009DAE4D /* Bingo.playground */,
 				0BB5DC741CA6368C00D99507 /* pruebaGit */,
 				0BB5DC891CA6368C00D99507 /* pruebaGitTests */,
 				0BB5DC941CA6368C00D99507 /* pruebaGitUITests */,
@@ -482,6 +484,7 @@
 				0BB5DC9C1CA6368C00D99507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BB5DC9D1CA6368C00D99507 /* Build configuration list for PBXNativeTarget "pruebaGitTests" */ = {
 			isa = XCConfigurationList;
@@ -490,6 +493,7 @@
 				0BB5DC9F1CA6368C00D99507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0BB5DCA01CA6368C00D99507 /* Build configuration list for PBXNativeTarget "pruebaGitUITests" */ = {
 			isa = XCConfigurationList;
@@ -498,6 +502,7 @@
 				0BB5DCA21CA6368C00D99507 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
